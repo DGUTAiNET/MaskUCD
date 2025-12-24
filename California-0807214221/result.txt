@@ -1,0 +1,11 @@
+Dataset:California
+Best result: {'epoch': 95, 'OA': 0.942031746031746, 'Precision': 0.3807810350301619, 'Recall': 0.5231932528718918, 'Kappa': 0.4109999403641408, 'F1': 0.4407693250030626, 'AUC': 0.8882633114517495}
+Last result: {'epoch': 149, 'OA': 0.9397396825396825, 'Precision': 0.35618397887323944, 'Recall': 0.4706994328922495, 'Kappa': 0.3744138783476255, 'F1': 0.40551205762605697, 'AUC': 0.8527952988731247}
+Best CM for last d:
+Optimal Threshold (Kappa): 0.6550
+OA: 0.9572
+Precision: 0.5129
+Recall: 0.3845
+Kappa: 0.4177
+F1: 0.4395
+Running Time: 64.85 s
