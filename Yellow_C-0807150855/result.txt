@@ -1,0 +1,11 @@
+Dataset:Yellow_C
+Best result: {'epoch': 133, 'OA': 0.984830191015758, 'Precision': 0.7362569487337863, 'Recall': 0.8404230317273795, 'Kappa': 0.7770724598539105, 'F1': 0.784899034240562, 'AUC': 0.9927838713306663}
+Last result: {'epoch': 149, 'OA': 0.9841413578526981, 'Precision': 0.7225585149313963, 'Recall': 0.8415981198589895, 'Kappa': 0.7693755460930584, 'F1': 0.7775485832157204, 'AUC': 0.9927104171545469}
+Best CM for last d:
+Optimal Threshold (Kappa): 0.5478
+OA: 0.9861
+Precision: 0.7768
+Recall: 0.8099
+Kappa: 0.7858
+F1: 0.7930
+Running Time: 53.55 s

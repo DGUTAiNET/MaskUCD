@@ -1,0 +1,11 @@
+Dataset:Toulouse
+Best result: {'epoch': 117, 'OA': 0.91680625, 'Precision': 0.797105392023505, 'Recall': 0.604572466160449, 'Kappa': 0.6406705626659241, 'F1': 0.6876158738353947, 'AUC': 0.927702018348246}
+Last result: {'epoch': 149, 'OA': 0.915825, 'Precision': 0.7948071866783524, 'Recall': 0.5987949818421922, 'Kappa': 0.6355888812247469, 'F1': 0.6830163810958387, 'AUC': 0.9241765220977138}
+Best CM for last d:
+Optimal Threshold (Kappa): 0.3071
+OA: 0.9159
+Precision: 0.7204
+Recall: 0.7271
+Kappa: 0.6741
+F1: 0.7237
+Running Time: 64.85 s

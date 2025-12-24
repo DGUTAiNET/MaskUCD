@@ -1,0 +1,11 @@
+Dataset:Texas
+Best result: {'epoch': 149, 'OA': 0.9736855693392025, 'Precision': 0.8670419254658385, 'Recall': 0.8252660360626662, 'Kappa': 0.831264742586094, 'F1': 0.8456383462062698, 'AUC': 0.9784329472685391}
+Last result: {'epoch': 149, 'OA': 0.9736855693392025, 'Precision': 0.8670419254658385, 'Recall': 0.8252660360626662, 'Kappa': 0.831264742586094, 'F1': 0.8456383462062698, 'AUC': 0.9784329472685391}
+Best CM for last d:
+Optimal Threshold (Kappa): 0.4791
+OA: 0.9743
+Precision: 0.8806
+Recall: 0.8162
+Kappa: 0.8332
+F1: 0.8472
+Running Time: 124.14 s

@@ -1,0 +1,11 @@
+Dataset:Gloucester1
+Best result: {'epoch': 144, 'OA': 0.938911996497373, 'Precision': 0.7015478692910376, 'Recall': 0.8455479294301902, 'Kappa': 0.7320476624616583, 'F1': 0.7668463048836529, 'AUC': 0.9698055384497839}
+Last result: {'epoch': 149, 'OA': 0.9377572241681261, 'Precision': 0.6967562628493109, 'Recall': 0.8430144179833249, 'Kappa': 0.7274861749792508, 'F1': 0.7629390307451797, 'AUC': 0.9692274017404386}
+Best CM for last d:
+Optimal Threshold (Kappa): 0.5786
+OA: 0.9420
+Precision: 0.7339
+Recall: 0.8028
+Kappa: 0.7337
+F1: 0.7668
+Running Time: 73.21 s

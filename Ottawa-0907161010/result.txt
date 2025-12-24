@@ -1,0 +1,11 @@
+Dataset:Ottawa
+Best result: {'epoch': 148, 'OA': 0.9649852216748769, 'Precision': 0.9957153058795525, 'Recall': 0.7819178765032089, 'Kappa': 0.8559177817225317, 'F1': 0.8759597933826608, 'AUC': 0.9960887644895134}
+Last result: {'epoch': 149, 'OA': 0.9649162561576354, 'Precision': 0.9955555555555555, 'Recall': 0.7816063306124992, 'Kappa': 0.8556219890664789, 'F1': 0.8757024677999231, 'AUC': 0.9961415793767285}
+Best CM for last d:
+Optimal Threshold (Kappa): 0.4128
+OA: 0.9798
+Precision: 0.9511
+Recall: 0.9193
+Kappa: 0.9229
+F1: 0.9349
+Running Time: 46.42 s

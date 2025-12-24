@@ -1,0 +1,11 @@
+Dataset:Italy
+Best result: {'epoch': 145, 'OA': 0.9782766990291262, 'Precision': 0.8577842143374367, 'Recall': 0.7766850249147653, 'Kappa': 0.8037128092447714, 'F1': 0.8152226274860643, 'AUC': 0.9679616484031475}
+Last result: {'epoch': 149, 'OA': 0.9781796116504854, 'Precision': 0.855268848205276, 'Recall': 0.7779963283503802, 'Kappa': 0.80323904384025, 'F1': 0.8148046419007072, 'AUC': 0.9688309367260036}
+Best CM for last d:
+Optimal Threshold (Kappa): 0.5232
+OA: 0.9782
+Precision: 0.8492
+Recall: 0.7865
+Kappa: 0.8051
+F1: 0.8167
+Running Time: 51.86 s
