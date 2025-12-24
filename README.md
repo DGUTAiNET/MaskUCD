@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <img src="Abstract.png" width="800"/>
+  <img src="MaskUCD.jpg" width="800"/>
 </div>
 
 ## Abstract
